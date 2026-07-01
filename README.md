@@ -1,6 +1,6 @@
 # MancunianScholarship
 Tutorial and test for DH/RSE Summer School
 
-Now we're changing things in branches.
+Now we're changing things in my branch first.
 
-Now we're editing each others projects.
+So we're editing each others projects; actually just my project.
