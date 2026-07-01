@@ -1,6 +1,6 @@
 # MancunianScholarship
 Tutorial and test for DH/RSE Summer School
 
-Now we're changing things in branches.
+Now we are definitely not changing things in branches.
 
-Now we're editing each others projects.
+We're trying to force an error.
